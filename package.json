@@ -1,5 +1,5 @@
 {
-  "name": "@rexxhayanasi/elaina-baileys",
+  "name": "@whiskeysockets/baileys",
   "version": "1.4.2",
   "description": "Elaina Baileys — an independently maintained Baileys distribution with integrated MessageBuilder, interactive messages, carousel/native-flow helpers, and Elaina-specific compatibility work.",
   "main": "src/index.js",
